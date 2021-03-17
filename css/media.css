@@ -1,0 +1,284 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*banner bottom part*/
+.botp p {
+    font-size: 16px;
+    word-spacing: 1px;
+}
+.banner_text {
+    padding: 77px 0;
+}
+.banner_text h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 27px;
+    margin-right: 0px;
+    margin-bottom: 0;
+    word-spacing: 0px;
+}
+.botbt {
+    
+    text-align: center;
+}
+/*service*/
+.mts{
+	margin-bottom: 30px;
+}
+.mts2{
+	margin-bottom: 30px;
+}
+/*build area*/
+.build_icon {
+   
+    text-align: center;
+}
+.build_text {
+    margin-top: 0px;
+}
+.build_icon img {
+    margin-top: -27px;
+}
+.build_text h4 {
+    /* font-family: 'Montserrat', sans-serif; */
+    font-size: 18px;
+    /* font-weight: 700; */
+    /* text-transform: uppercase; */
+    color: #3b404f;
+    margin-top: 23px;
+    margin-bottom: 7px;
+}
+/*service*/
+.service {
+    padding-top: 58px;
+    padding-bottom: 0px;
+}
+/*feadback*/
+.mbf{
+	margin-bottom: 20px;
+}
+.user_text {
+  
+    padding: 13px;
+    
+}
+.user_img {
+    text-align: center;
+}
+.user_text {
+
+    text-align: center;
+}
+/*embade*/
+.embade_text {
+    padding: 12px 0 101px 12px;
+}
+
+.embade_text h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    margin-bottom: 14px;
+    margin-right: 2px;
+    margin-top: 14px;
+}
+.embade_btn {
+    position: absolute;
+    top: 218px;
+    right: 78px;
+}
+.embade_btn button {
+
+    padding: 5px 4px;
+    
+}
+.embade_text p {
+    margin-right: 2px;
+}
+.mbfn{
+	margin-bottom: 30px;
+}
+.ftext {
+    margin-bottom: 30px;
+}
+.featured_n {
+    padding-bottom: 20px;
+    padding-top: 36px;
+}
+
+}
+.mli{
+	    margin-left: 131px;
+}
+.fpart3_text {
+    text-align: center;
+}
+.ftitle {
+    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 27px;
+}
+footer {
+    
+    padding: 19px 0 55px 0;
+}
+.social_icon {
+    text-align: center;
+    margin-top: 15px;
+}
+.feedlogo {
+    padding: 16px;
+}
+
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*banner bottom part*/
+.botp p {
+    font-size: 16px;
+    word-spacing: 1px;
+}
+/*service*/
+.mts{
+	margin-bottom: 30px;
+}
+.smb {
+    
+    margin-top: 21px;
+}
+.service_img img {
+    margin-top: 26px;
+}
+/*build area*/
+.build_text {
+    margin-top: 0px;
+}
+.build_icon img {
+    margin-top: -27px;
+}
+.build_text h4 {
+    /* font-family: 'Montserrat', sans-serif; */
+    font-size: 18px;
+    /* font-weight: 700; */
+    /* text-transform: uppercase; */
+    color: #3b404f;
+    margin-top: 23px;
+    margin-bottom: 7px;
+}
+/*service*/
+.service {
+    padding-top: 58px;
+    padding-bottom: 0px;
+}
+/*feadback*/
+.mbf{
+	margin-bottom: 20px;
+}
+.user_text {
+  
+    padding: 13px;
+    
+}
+/*embade*/
+.embade_text {
+   
+    padding: 12px;
+}
+.embade_text h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    margin-bottom: 8px;
+    margin-right: 92px;
+}
+.embade_btn {
+    position: absolute;
+    top: 218px;
+    right: 78px;
+}
+.embade_btn button {
+
+    padding: 5px 4px;
+    
+}
+.embade_text p {
+    
+    margin-right: 148px;
+}
+.mbfn{
+	margin-bottom: 30px;
+}
+.mli{
+	    margin-left: 48px;
+}
+
+
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*banner part*/
+.botbt button {
+    padding: 6px 8px;
+}
+.build_area {
+    margin-top: 46px;
+    
+}
+/*service part*/
+.service {
+    padding-top: 57px;
+    padding-bottom: 0px;
+}
+/*feadback*/
+.feedback {
+    padding-top: 10px;
+}
+/*embade*/
+.embade_text h5 {
+    margin-right: 164px;
+}
+.embade_text p {
+    margin-right: 197px;
+}
+.mli {
+    margin-left: 23px;
+}
+
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+.mli {
+    margin-left: 49px;
+}
+.embade_text h5 {
+    
+    margin-right: 153px;
+}
+.build_text {
+    margin-top: 15px;
+}
+.build_text h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 21px;
+    margin-bottom: 14px;
+    margin-top: 49px;
+}
+.build_text p {
+    margin-top: 0;
+    color: #6d7396;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    margin-right: 1px;
+    margin-bottom: 0;
+}
+
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+.mli {
+    margin-left: 60px;
+}
+}
